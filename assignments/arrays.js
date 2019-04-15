@@ -112,7 +112,7 @@ for (let i = 0; i < inventory.length; i++) {
         BMWAndAudi.push(inventory[i]);
     }
 }
-console.log("This is a list of BMW and Audi cars: " + JSON.stringify(BMWAndAudi));;
+console.log("This is a list of BMW and Audi cars: " + JSON.stringify(BMWAndAudi));
 
 
 
